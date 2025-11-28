@@ -41,7 +41,7 @@ pip install python-can
 📥 Download Full Source Code
 Get the complete, fully commented source code (main.py). You can use it as a standalone tool or integrate the J1939 parsing logic into your own projects.
 
-👉 Download on Gumroad ($29): [Link](https://pokhts.gumroad.com/l/python-can-j1939-tool)
+👉 Download on Gumroad ($9.9): [Link](https://pokhts.gumroad.com/l/python-can-j1939-tool)
 
 (Includes: main.py, requirements.txt, and Setup Guide)
 
