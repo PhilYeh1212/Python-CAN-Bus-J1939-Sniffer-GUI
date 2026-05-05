@@ -144,7 +144,6 @@ tools for industrial protocol work.
 
 - 🛒 **Store:** [pokhts.gumroad.com](https://pokhts.gumroad.com)
 - ✍️ **Blog:** [dev.to/philyeh](https://dev.to/philyeh)
-- 💼 **LinkedIn:** [linkedin.com/in/phil-yeh-204144297](https://www.linkedin.com/in/phil-yeh-204144297/)
 
 ---
 
