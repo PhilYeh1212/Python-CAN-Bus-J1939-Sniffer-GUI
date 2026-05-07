@@ -37,10 +37,10 @@ Built by a senior automation engineer who got tired of the "Vector or nothing" c
 This repo contains the **Community Edition** — a working J1939 sniffer with
 basic decoding, free for personal and educational use.
 
-The **[J1939 Sniffer Pro](https://pokhts.gumroad.com)** version on Gumroad
+The **[J1939 Sniffer Pro](https://philyeh.gumroad.com)** version on Gumroad
 adds the production features I use in real client work:
 
-| Feature | Community (this repo) | **[Pro Edition ($59)](https://pokhts.gumroad.com)** |
+| Feature | Community (this repo) | **[Pro Edition ($59)](https://philyeh.gumroad.com)** |
 |---|:---:|:---:|
 | 29-bit PGN extraction | ✅ | ✅ |
 | Demo Mode (no hardware needed) | ✅ Basic | ✅ Realistic value drift |
@@ -53,9 +53,9 @@ adds the production features I use in real client work:
 | **Commercial license** for client work | ❌ | ✅ |
 | **Email support** | ❌ | ✅ |
 
-### 👉 [Get J1939 Sniffer Pro on Gumroad — $59](https://pokhts.gumroad.com)
+### 👉 [Get J1939 Sniffer Pro on Gumroad — $59](https://philyeh.gumroad.com)
 
-Or save $47 with the **[Industrial Python Toolkit Bundle](https://pokhts.gumroad.com)**
+Or save $47 with the **[Industrial Python Toolkit Bundle](https://philyeh.gumroad.com)**
 ($129) — includes J1939 + Modbus + MQTT + EtherNet/IP.
 
 ---
@@ -122,18 +122,18 @@ encoded as 16-bit unsigned with a **0.125 RPM/bit** scaling factor.
 ## 📥 Get the Pro version
 
 The Community Edition is the demo of what's possible. The
-**[Pro version](https://pokhts.gumroad.com)** is what I actually use in
+**[Pro version](https://philyeh.gumroad.com)** is what I actually use in
 client work — production-quality, batteries-included, commercial license.
 
 | Product | Price | Link |
 |---|---:|---|
-| 🚛 **J1939 Sniffer Pro** (this tool, Pro edition) | $59 | [Buy](https://pokhts.gumroad.com) |
-| ⚙️ **Modbus Logger Pro** | $49 | [Buy](https://pokhts.gumroad.com) |
-| 📡 **MQTT Logger Pro** | $39 | [Buy](https://pokhts.gumroad.com) |
-| 🏭 **EtherNet/IP Study Kit** | $29 | [Buy](https://pokhts.gumroad.com) |
-| 🔒 **Private ChatGPT Stack** | $59 | [Buy](https://pokhts.gumroad.com) |
-| 📦 **Industrial Python Toolkit Bundle** (4 tools, save $47) | **$129** | [Buy](https://pokhts.gumroad.com) |
-| 📊 **CSV Dashboard** (free companion tool) | $0 | [Download](https://pokhts.gumroad.com) |
+| 🚛 **J1939 Sniffer Pro** (this tool, Pro edition) | $59 | [Buy](https://philyeh.gumroad.com) |
+| ⚙️ **Modbus Logger Pro** | $49 | [Buy](https://philyeh.gumroad.com) |
+| 📡 **MQTT Logger Pro** | $39 | [Buy](https://philyeh.gumroad.com) |
+| 🏭 **EtherNet/IP Study Kit** | $29 | [Buy](https://philyeh.gumroad.com) |
+| 🔒 **Private ChatGPT Stack** | $59 | [Buy](https://philyeh.gumroad.com) |
+| 📦 **Industrial Python Toolkit Bundle** (4 tools, save $47) | **$129** | [Buy](https://philyeh.gumroad.com) |
+| 📊 **CSV Dashboard** (free companion tool) | $0 | [Download](https://philyeh.gumroad.com) |
 
 ---
 
@@ -142,7 +142,7 @@ client work — production-quality, batteries-included, commercial license.
 **Phil Yeh** — Senior Automation Engineer based in Taiwan. I build Python
 tools for industrial protocol work.
 
-- 🛒 **Store:** [pokhts.gumroad.com](https://pokhts.gumroad.com)
+- 🛒 **Store:** [philyeh.gumroad.com](https://philyeh.gumroad.com)
 - ✍️ **Blog:** [dev.to/philyeh](https://dev.to/philyeh)
 
 ---
@@ -151,7 +151,7 @@ tools for industrial protocol work.
 
 The Community Edition in this repository is free for personal and
 educational use. For commercial use (client projects, internal company
-tools, products you sell), please get the **[Pro Edition](https://pokhts.gumroad.com)**
+tools, products you sell), please get the **[Pro Edition](https://philyeh.gumroad.com)**
 which includes a proper commercial license.
 
 If this tool helped you, **a ⭐ on the repo** means a lot to an indie
